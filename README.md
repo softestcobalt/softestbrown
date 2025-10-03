@@ -74,14 +74,18 @@ A minimal and stylish dark theme with soft brown shades, light beige accents, an
 ---
 
 ## 📸 Screenshots
+<h3 align="center">📱 Mobile</h3>
 
-Mobile:
-![IMG_2973](https://github.com/user-attachments/assets/c5fb2671-ead3-4c7a-a3d0-e875a9e792b3)
-![IMG_2971](https://github.com/user-attachments/assets/8567dbd5-b2e2-4a17-adc5-45d100f802ea)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c5fb2671-ead3-4c7a-a3d0-e875a9e792b3" width="40%">
+  <img src="https://github.com/user-attachments/assets/8567dbd5-b2e2-4a17-adc5-45d100f802ea" width="40%">
+</p>
 
+<h3 align="center">💻 Desktop</h3>
 
-Desktop:
-<img width="1131" height="732" alt="Screenshot_1" src="https://github.com/user-attachments/assets/8d3caf88-8c6b-4e9d-8207-eb0eaf352842" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d3caf88-8c6b-4e9d-8207-eb0eaf352842" width="70%">
+</p>
 
 ---
 
