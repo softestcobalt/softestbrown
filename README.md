@@ -1,22 +1,19 @@
-[Avaliabe here](https://t.me/addtheme/softestcobalt)
 <a href="https://t.me/addtheme/softestcobalt" target="_blank">
-  <img src="https://img.shields.io/badge/Install%20Theme-Telegram-blue?logo=telegram" alt="Install Theme">
+  <img src="https://img.shields.io/badge/Click%20here-Telegram-blue?logo=telegram" alt="Click here">
 </a>
 
 
-# 🟤 Brown — Telegram Theme
+# 🟤 Brown
 
 > A warm, dark-brown Telegram theme designed for comfort, minimalism, and elegance.  
-> Inspired by cozy tones of coffee and wood. Built on the **nighttinted** base theme.  
-> Supports **Telegram Mobile** and **Telegram Desktop**.
+> Inspired by cozy tones of coffee and wood.
+> Supports **iOS** and **Desktop**.
 
 ---
 
 ## 🎨 Overview
 
-**Name:** Brown  
 **Short name:** softestcobalt  
-**Based on:** nighttinted  
 **Mode:** Dark  
 **Accent color:** #8B807A  
 **Background:** #201E1D  
@@ -32,7 +29,6 @@ A minimal and stylish dark theme with soft brown shades, light beige accents, an
 - 💬 Custom message bubble colors for incoming & outgoing messages  
 - ⚙️ Themed inline and reply buttons  
 - 📎 Redesigned menus, search bars, and notification panels  
-- 📱 Works on **Telegram for iOS / Desktop**
 
 ---
 
@@ -74,13 +70,6 @@ A minimal and stylish dark theme with soft brown shades, light beige accents, an
 ### 📱 For Telegram Mobile
 1. Open link in Telegram.
 2. Click **Apply Theme**.
-
----
-
-## 🧩 Colors
-
-- **Accent:** Soft taupe `#8B807A`
-- **Highlight color:** Beige `#D1BBB4`
 
 ---
 
