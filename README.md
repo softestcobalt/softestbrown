@@ -1,3 +1,9 @@
+[Avaliabe here](https://t.me/addtheme/softestcobalt)
+<a href="https://t.me/addtheme/softestcobalt" target="_blank">
+  <img src="https://img.shields.io/badge/Install%20Theme-Telegram-blue?logo=telegram" alt="Install Theme">
+</a>
+
+
 # 🟤 Brown — Telegram Theme
 
 > A warm, dark-brown Telegram theme designed for comfort, minimalism, and elegance.  
@@ -26,16 +32,7 @@ A minimal and stylish dark theme with soft brown shades, light beige accents, an
 - 💬 Custom message bubble colors for incoming & outgoing messages  
 - ⚙️ Themed inline and reply buttons  
 - 📎 Redesigned menus, search bars, and notification panels  
-- 📱 Works on **Telegram for Android / iOS / Desktop**
-
----
-
-## 📂 Theme Variants
-
-| Platform | File | Description |
-|-----------|------|--------------|
-| **Mobile (iOS / Android)** | `Brown.attheme` | Telegram mobile theme file |
-| **Desktop (Windows / macOS / Linux)** | `Brown.tdesktop-theme` | Telegram Desktop theme file |
+- 📱 Works on **Telegram for iOS / Desktop**
 
 ---
 
@@ -71,40 +68,31 @@ A minimal and stylish dark theme with soft brown shades, light beige accents, an
 ## 💻 Installation
 
 ### 🟫 For Telegram Desktop
-1. Download the file `Brown.tdesktop-theme`.
-2. Open Telegram Desktop.
-3. Drag and drop the theme file into the Telegram window.
-4. Click **Apply Theme**.
+1. Open link in Telegram Desktop (or your browser).
+2. Click **Apply Theme**.
 
 ### 📱 For Telegram Mobile
-1. Download the file `Brown.attheme`.
-2. Open Telegram → Settings → Chat Settings → Change Colors → Upload Theme.
-3. Choose the file and apply it.
+1. Open link in Telegram.
+2. Click **Apply Theme**.
 
 ---
 
-## 🧩 Technical Details
+## 🧩 Colors
 
-- **Based on:** `nighttinted`
-- **Dark mode:** `true`
-- **Wallpaper:** [Cloud wallpaper link](https://t.me/bg/j8_G5wUZ1FICAAAA2-lWKmWbbJc)
-- **Status bar:** White
 - **Accent:** Soft taupe `#8B807A`
 - **Highlight color:** Beige `#D1BBB4`
 
 ---
 
-## 📸 Screenshots (optional)
+## 📸 Screenshots
 
-> _Add screenshots here to show how the theme looks in chats, settings, and message views._
+Mobile:
+![IMG_2973](https://github.com/user-attachments/assets/c5fb2671-ead3-4c7a-a3d0-e875a9e792b3)
+![IMG_2971](https://github.com/user-attachments/assets/8567dbd5-b2e2-4a17-adc5-45d100f802ea)
 
-Example structure:
-```
-📂 screenshots/
- ├── chat_view.png
- ├── main_menu.png
- └── reply_photo.png
-```
+
+Desktop:
+<img width="1131" height="732" alt="Screenshot_1" src="https://github.com/user-attachments/assets/8d3caf88-8c6b-4e9d-8207-eb0eaf352842" />
 
 ---
 
